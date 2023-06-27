@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BankTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-06-27T12:51:34" hostname="DESKTOP-3LSPFJ1" time="0.054">
+  <properties/>
+  <testcase name="임금한도_초과시_예외()" classname="BankTest" time="0.031"/>
+  <testcase name="입금()" classname="BankTest" time="0.002"/>
+  <testcase name="출금()" classname="BankTest" time="0.002"/>
+  <testcase name="출금시_패스워드_불일치()" classname="BankTest" time="0.002"/>
+  <testcase name="잔액조회_문자포멧()" classname="BankTest" time="0.003"/>
+  <testcase name="입금_금액_음수_예외()" classname="BankTest" time="0.001"/>
+  <testcase name="출금금액_음수_예외()" classname="BankTest" time="0.002"/>
+  <testcase name="입금_최소금액_예외()" classname="BankTest" time="0.002"/>
+  <testcase name="소지금보다_많은_금액_출금_예외()" classname="BankTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
